@@ -1,0 +1,1000 @@
+Hasil dari 174.0000 - 469.0000 adalah: -295.0000
+Hasil dari 318.0000 * 284.0000 adalah: 90312.0000
+Hasil dari 29.0000 + 299.0000 adalah: 328.0000
+Hasil dari 284.0000 + 262.0000 adalah: 546.0000
+Hasil dari 339.0000 - 221.0000 adalah: 118.0000
+Hasil dari 104.0000 / 238.0000 adalah: 0.4370
+Hasil dari 375.0000 - 108.0000 adalah: 267.0000
+Hasil dari 141.0000 + 480.0000 adalah: 621.0000
+Error: Operator '^' tidak valid.
+Hasil dari 483.0000 + 54.0000 adalah: 537.0000
+Error: Operator '^' tidak valid.
+Hasil dari 44.0000 * 359.0000 adalah: 15796.0000
+Hasil dari 333.0000 / 488.0000 adalah: 0.6824
+Hasil dari 191.0000 - 414.0000 adalah: -223.0000
+Error: Operator '^' tidak valid.
+Hasil dari 76.0000 * 114.0000 adalah: 8664.0000
+Hasil dari 122.0000 * 215.0000 adalah: 26230.0000
+Hasil dari 140.0000 + 354.0000 adalah: 494.0000
+Hasil dari 407.0000 - 310.0000 adalah: 97.0000
+Hasil dari 20.0000 - 365.0000 adalah: -345.0000
+Hasil dari 317.0000 + 304.0000 adalah: 621.0000
+Hasil dari 412.0000 / 59.0000 adalah: 6.9831
+Hasil dari 279.0000 * 333.0000 adalah: 92907.0000
+Hasil dari 343.0000 / 296.0000 adalah: 1.1588
+Hasil dari 450.0000 - 16.0000 adalah: 434.0000
+Hasil dari 274.0000 + 411.0000 adalah: 685.0000
+Hasil dari 487.0000 - 19.0000 adalah: 468.0000
+Hasil dari 305.0000 * 411.0000 adalah: 125355.0000
+Hasil dari 303.0000 + 431.0000 adalah: 734.0000
+Hasil dari 198.0000 + 400.0000 adalah: 598.0000
+Hasil dari 276.0000 + 19.0000 adalah: 295.0000
+Hasil dari 444.0000 + 376.0000 adalah: 820.0000
+Hasil dari 364.0000 * 469.0000 adalah: 170716.0000
+Error: Operator '^' tidak valid.
+Hasil dari 497.0000 / 214.0000 adalah: 2.3224
+Hasil dari 411.0000 * 263.0000 adalah: 108093.0000
+Hasil dari 72.0000 + 130.0000 adalah: 202.0000
+Hasil dari 136.0000 * 359.0000 adalah: 48824.0000
+Hasil dari 287.0000 + 198.0000 adalah: 485.0000
+Hasil dari 344.0000 - 492.0000 adalah: -148.0000
+Hasil dari 358.0000 + 6.0000 adalah: 364.0000
+Hasil dari 211.0000 - 481.0000 adalah: -270.0000
+Error: Operator '^' tidak valid.
+Hasil dari 477.0000 / 41.0000 adalah: 11.6341
+Error: Operator '^' tidak valid.
+Hasil dari 154.0000 / 14.0000 adalah: 11.0000
+Error: Operator '^' tidak valid.
+Hasil dari 163.0000 + 469.0000 adalah: 632.0000
+Error: Operator '^' tidak valid.
+Hasil dari 7.0000 + 462.0000 adalah: 469.0000
+Hasil dari 300.0000 / 57.0000 adalah: 5.2632
+Hasil dari 375.0000 + 231.0000 adalah: 606.0000
+Hasil dari 31.0000 - 16.0000 adalah: 15.0000
+Hasil dari 316.0000 * 285.0000 adalah: 90060.0000
+Hasil dari 391.0000 / 431.0000 adalah: 0.9072
+Hasil dari 462.0000 + 393.0000 adalah: 855.0000
+Hasil dari 490.0000 * 449.0000 adalah: 220010.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 303.0000 - 108.0000 adalah: 195.0000
+Hasil dari 330.0000 * 387.0000 adalah: 127710.0000
+Hasil dari 317.0000 - 46.0000 adalah: 271.0000
+Error: Operator '^' tidak valid.
+Hasil dari 178.0000 / 259.0000 adalah: 0.6873
+Hasil dari 35.0000 - 425.0000 adalah: -390.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 308.0000 - 243.0000 adalah: 65.0000
+Error: Operator '^' tidak valid.
+Hasil dari 266.0000 / 225.0000 adalah: 1.1822
+Hasil dari 283.0000 / 116.0000 adalah: 2.4397
+Hasil dari 214.0000 - 164.0000 adalah: 50.0000
+Hasil dari 13.0000 * 399.0000 adalah: 5187.0000
+Hasil dari 305.0000 + 8.0000 adalah: 313.0000
+Error: Operator '^' tidak valid.
+Hasil dari 59.0000 + 453.0000 adalah: 512.0000
+Hasil dari 458.0000 - 421.0000 adalah: 37.0000
+Hasil dari 233.0000 / 461.0000 adalah: 0.5054
+Hasil dari 327.0000 - 92.0000 adalah: 235.0000
+Hasil dari 286.0000 + 50.0000 adalah: 336.0000
+Hasil dari 244.0000 / 72.0000 adalah: 3.3889
+Hasil dari 202.0000 + 165.0000 adalah: 367.0000
+Hasil dari 286.0000 / 351.0000 adalah: 0.8148
+Hasil dari 55.0000 / 316.0000 adalah: 0.1741
+Hasil dari 189.0000 - 122.0000 adalah: 67.0000
+Hasil dari 318.0000 - 423.0000 adalah: -105.0000
+Hasil dari 128.0000 - 187.0000 adalah: -59.0000
+Hasil dari 484.0000 * 233.0000 adalah: 112772.0000
+Hasil dari 357.0000 * 284.0000 adalah: 101388.0000
+Hasil dari 473.0000 - 41.0000 adalah: 432.0000
+Hasil dari 297.0000 / 390.0000 adalah: 0.7615
+Error: Operator '^' tidak valid.
+Hasil dari 205.0000 / 370.0000 adalah: 0.5541
+Hasil dari 23.0000 / 295.0000 adalah: 0.0780
+Hasil dari 435.0000 + 14.0000 adalah: 449.0000
+Hasil dari 284.0000 * 342.0000 adalah: 97128.0000
+Hasil dari 344.0000 + 251.0000 adalah: 595.0000
+Hasil dari 35.0000 - 422.0000 adalah: -387.0000
+Hasil dari 293.0000 / 384.0000 adalah: 0.7630
+Error: Operator '^' tidak valid.
+Hasil dari 278.0000 + 149.0000 adalah: 427.0000
+Hasil dari 246.0000 + 44.0000 adalah: 290.0000
+Hasil dari 58.0000 * 378.0000 adalah: 21924.0000
+Hasil dari 237.0000 - 88.0000 adalah: 149.0000
+Hasil dari 34.0000 / 414.0000 adalah: 0.0821
+Hasil dari 35.0000 * 436.0000 adalah: 15260.0000
+Hasil dari 72.0000 + 49.0000 adalah: 121.0000
+Hasil dari 75.0000 / 288.0000 adalah: 0.2604
+Hasil dari 462.0000 - 412.0000 adalah: 50.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 232.0000 / 317.0000 adalah: 0.7319
+Hasil dari 25.0000 - 281.0000 adalah: -256.0000
+Hasil dari 330.0000 * 91.0000 adalah: 30030.0000
+Hasil dari 59.0000 - 83.0000 adalah: -24.0000
+Error: Operator '^' tidak valid.
+Hasil dari 464.0000 * 429.0000 adalah: 199056.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 10.0000 - 457.0000 adalah: -447.0000
+Error: Operator '^' tidak valid.
+Hasil dari 109.0000 + 427.0000 adalah: 536.0000
+Hasil dari 106.0000 / 232.0000 adalah: 0.4569
+Hasil dari 437.0000 - 449.0000 adalah: -12.0000
+Hasil dari 194.0000 - 310.0000 adalah: -116.0000
+Hasil dari 30.0000 - 372.0000 adalah: -342.0000
+Hasil dari 465.0000 * 405.0000 adalah: 188325.0000
+Hasil dari 259.0000 * 201.0000 adalah: 52059.0000
+Hasil dari 268.0000 - 34.0000 adalah: 234.0000
+Hasil dari 322.0000 + 113.0000 adalah: 435.0000
+Hasil dari 273.0000 - 257.0000 adalah: 16.0000
+Hasil dari 14.0000 * 71.0000 adalah: 994.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 204.0000 * 465.0000 adalah: 94860.0000
+Hasil dari 434.0000 + 194.0000 adalah: 628.0000
+Hasil dari 405.0000 - 254.0000 adalah: 151.0000
+Error: Operator '^' tidak valid.
+Hasil dari 382.0000 - 48.0000 adalah: 334.0000
+Error: Operator '^' tidak valid.
+Hasil dari 448.0000 / 145.0000 adalah: 3.0897
+Hasil dari 269.0000 - 371.0000 adalah: -102.0000
+Hasil dari 495.0000 - 92.0000 adalah: 403.0000
+Hasil dari 246.0000 * 77.0000 adalah: 18942.0000
+Hasil dari 74.0000 + 296.0000 adalah: 370.0000
+Hasil dari 249.0000 * 80.0000 adalah: 19920.0000
+Error: Operator '^' tidak valid.
+Hasil dari 462.0000 * 16.0000 adalah: 7392.0000
+Error: Operator '^' tidak valid.
+Hasil dari 131.0000 - 26.0000 adalah: 105.0000
+Error: Operator '^' tidak valid.
+Hasil dari 158.0000 - 95.0000 adalah: 63.0000
+Hasil dari 150.0000 / 54.0000 adalah: 2.7778
+Hasil dari 487.0000 / 241.0000 adalah: 2.0207
+Error: Operator '^' tidak valid.
+Hasil dari 375.0000 / 2.0000 adalah: 187.5000
+Hasil dari 101.0000 + 470.0000 adalah: 571.0000
+Error: Operator '^' tidak valid.
+Hasil dari 139.0000 + 200.0000 adalah: 339.0000
+Hasil dari 382.0000 + 131.0000 adalah: 513.0000
+Hasil dari 22.0000 + 476.0000 adalah: 498.0000
+Error: Operator '^' tidak valid.
+Hasil dari 181.0000 + 308.0000 adalah: 489.0000
+Hasil dari 417.0000 + 150.0000 adalah: 567.0000
+Hasil dari 256.0000 * 314.0000 adalah: 80384.0000
+Error: Operator '^' tidak valid.
+Hasil dari 11.0000 - 114.0000 adalah: -103.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 320.0000 - 228.0000 adalah: 92.0000
+Hasil dari 322.0000 / 322.0000 adalah: 1.0000
+Hasil dari 134.0000 + 154.0000 adalah: 288.0000
+Hasil dari 440.0000 / 170.0000 adalah: 2.5882
+Hasil dari 49.0000 * 168.0000 adalah: 8232.0000
+Hasil dari 138.0000 + 102.0000 adalah: 240.0000
+Hasil dari 370.0000 - 103.0000 adalah: 267.0000
+Error: Operator '^' tidak valid.
+Hasil dari 84.0000 / 400.0000 adalah: 0.2100
+Hasil dari 285.0000 + 76.0000 adalah: 361.0000
+Error: Operator '^' tidak valid.
+Hasil dari 331.0000 - 175.0000 adalah: 156.0000
+Hasil dari 77.0000 * 181.0000 adalah: 13937.0000
+Hasil dari 138.0000 * 232.0000 adalah: 32016.0000
+Hasil dari 272.0000 - 75.0000 adalah: 197.0000
+Hasil dari 474.0000 * 177.0000 adalah: 83898.0000
+Hasil dari 109.0000 + 493.0000 adalah: 602.0000
+Hasil dari 264.0000 + 324.0000 adalah: 588.0000
+Hasil dari 152.0000 / 91.0000 adalah: 1.6703
+Hasil dari 337.0000 - 290.0000 adalah: 47.0000
+Hasil dari 88.0000 / 357.0000 adalah: 0.2465
+Hasil dari 332.0000 + 408.0000 adalah: 740.0000
+Error: Operator '^' tidak valid.
+Hasil dari 323.0000 - 317.0000 adalah: 6.0000
+Hasil dari 363.0000 - 291.0000 adalah: 72.0000
+Hasil dari 319.0000 - 349.0000 adalah: -30.0000
+Hasil dari 85.0000 + 163.0000 adalah: 248.0000
+Hasil dari 412.0000 + 7.0000 adalah: 419.0000
+Hasil dari 106.0000 + 169.0000 adalah: 275.0000
+Hasil dari 168.0000 + 269.0000 adalah: 437.0000
+Hasil dari 47.0000 - 185.0000 adalah: -138.0000
+Hasil dari 428.0000 - 155.0000 adalah: 273.0000
+Hasil dari 223.0000 * 372.0000 adalah: 82956.0000
+Hasil dari 473.0000 - 85.0000 adalah: 388.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 142.0000 / 59.0000 adalah: 2.4068
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 150.0000 * 431.0000 adalah: 64650.0000
+Error: Operator '^' tidak valid.
+Hasil dari 471.0000 / 483.0000 adalah: 0.9752
+Hasil dari 287.0000 / 176.0000 adalah: 1.6307
+Hasil dari 492.0000 - 44.0000 adalah: 448.0000
+Hasil dari 111.0000 - 332.0000 adalah: -221.0000
+Hasil dari 68.0000 / 228.0000 adalah: 0.2982
+Hasil dari 224.0000 + 441.0000 adalah: 665.0000
+Hasil dari 486.0000 - 109.0000 adalah: 377.0000
+Hasil dari 203.0000 + 182.0000 adalah: 385.0000
+Hasil dari 132.0000 - 114.0000 adalah: 18.0000
+Hasil dari 116.0000 * 339.0000 adalah: 39324.0000
+Hasil dari 137.0000 + 283.0000 adalah: 420.0000
+Hasil dari 195.0000 - 130.0000 adalah: 65.0000
+Hasil dari 372.0000 + 427.0000 adalah: 799.0000
+Hasil dari 57.0000 + 165.0000 adalah: 222.0000
+Hasil dari 265.0000 / 168.0000 adalah: 1.5774
+Hasil dari 206.0000 / 129.0000 adalah: 1.5969
+Hasil dari 477.0000 / 482.0000 adalah: 0.9896
+Error: Operator '^' tidak valid.
+Hasil dari 271.0000 / 327.0000 adalah: 0.8287
+Hasil dari 192.0000 * 77.0000 adalah: 14784.0000
+Hasil dari 86.0000 + 26.0000 adalah: 112.0000
+Hasil dari 188.0000 * 228.0000 adalah: 42864.0000
+Hasil dari 441.0000 / 140.0000 adalah: 3.1500
+Hasil dari 497.0000 * 86.0000 adalah: 42742.0000
+Error: Operator '^' tidak valid.
+Hasil dari 355.0000 / 359.0000 adalah: 0.9889
+Hasil dari 15.0000 + 304.0000 adalah: 319.0000
+Error: Operator '^' tidak valid.
+Hasil dari 73.0000 / 204.0000 adalah: 0.3578
+Hasil dari 206.0000 + 322.0000 adalah: 528.0000
+Error: Operator '^' tidak valid.
+Hasil dari 78.0000 / 483.0000 adalah: 0.1615
+Hasil dari 438.0000 / 424.0000 adalah: 1.0330
+Hasil dari 474.0000 - 17.0000 adalah: 457.0000
+Hasil dari 105.0000 * 197.0000 adalah: 20685.0000
+Hasil dari 257.0000 * 27.0000 adalah: 6939.0000
+Hasil dari 334.0000 - 213.0000 adalah: 121.0000
+Hasil dari 214.0000 / 234.0000 adalah: 0.9145
+Hasil dari 426.0000 / 22.0000 adalah: 19.3636
+Hasil dari 105.0000 * 343.0000 adalah: 36015.0000
+Error: Operator '^' tidak valid.
+Hasil dari 220.0000 * 201.0000 adalah: 44220.0000
+Hasil dari 427.0000 / 341.0000 adalah: 1.2522
+Hasil dari 342.0000 + 19.0000 adalah: 361.0000
+Hasil dari 401.0000 - 406.0000 adalah: -5.0000
+Hasil dari 488.0000 - 306.0000 adalah: 182.0000
+Hasil dari 394.0000 - 314.0000 adalah: 80.0000
+Hasil dari 414.0000 + 329.0000 adalah: 743.0000
+Error: Operator '^' tidak valid.
+Hasil dari 330.0000 / 19.0000 adalah: 17.3684
+Error: Operator '^' tidak valid.
+Hasil dari 7.0000 + 305.0000 adalah: 312.0000
+Hasil dari 23.0000 / 121.0000 adalah: 0.1901
+Hasil dari 383.0000 + 19.0000 adalah: 402.0000
+Error: Operator '^' tidak valid.
+Hasil dari 226.0000 + 1.0000 adalah: 227.0000
+Error: Operator '^' tidak valid.
+Hasil dari 336.0000 / 302.0000 adalah: 1.1126
+Hasil dari 95.0000 - 111.0000 adalah: -16.0000
+Hasil dari 79.0000 - 16.0000 adalah: 63.0000
+Hasil dari 362.0000 + 71.0000 adalah: 433.0000
+Hasil dari 280.0000 + 379.0000 adalah: 659.0000
+Hasil dari 76.0000 + 194.0000 adalah: 270.0000
+Hasil dari 399.0000 * 313.0000 adalah: 124887.0000
+Error: Operator '^' tidak valid.
+Hasil dari 352.0000 * 489.0000 adalah: 172128.0000
+Error: Operator '^' tidak valid.
+Hasil dari 99.0000 + 268.0000 adalah: 367.0000
+Error: Operator '^' tidak valid.
+Hasil dari 164.0000 * 348.0000 adalah: 57072.0000
+Hasil dari 198.0000 - 282.0000 adalah: -84.0000
+Error: Operator '^' tidak valid.
+Hasil dari 351.0000 - 412.0000 adalah: -61.0000
+Hasil dari 181.0000 - 211.0000 adalah: -30.0000
+Hasil dari 262.0000 * 146.0000 adalah: 38252.0000
+Hasil dari 138.0000 * 171.0000 adalah: 23598.0000
+Hasil dari 121.0000 - 374.0000 adalah: -253.0000
+Hasil dari 115.0000 + 235.0000 adalah: 350.0000
+Error: Operator '^' tidak valid.
+Hasil dari 299.0000 - 30.0000 adalah: 269.0000
+Hasil dari 261.0000 + 84.0000 adalah: 345.0000
+Hasil dari 10.0000 + 339.0000 adalah: 349.0000
+Hasil dari 419.0000 + 189.0000 adalah: 608.0000
+Hasil dari 378.0000 + 45.0000 adalah: 423.0000
+Hasil dari 139.0000 / 279.0000 adalah: 0.4982
+Hasil dari 135.0000 - 299.0000 adalah: -164.0000
+Hasil dari 49.0000 - 10.0000 adalah: 39.0000
+Hasil dari 455.0000 - 56.0000 adalah: 399.0000
+Hasil dari 121.0000 / 263.0000 adalah: 0.4601
+Hasil dari 142.0000 + 64.0000 adalah: 206.0000
+Hasil dari 188.0000 / 251.0000 adalah: 0.7490
+Hasil dari 489.0000 / 421.0000 adalah: 1.1615
+Hasil dari 350.0000 - 297.0000 adalah: 53.0000
+Hasil dari 479.0000 / 463.0000 adalah: 1.0346
+Hasil dari 403.0000 / 277.0000 adalah: 1.4549
+Hasil dari 201.0000 + 275.0000 adalah: 476.0000
+Hasil dari 289.0000 * 299.0000 adalah: 86411.0000
+Error: Operator '^' tidak valid.
+Hasil dari 278.0000 / 367.0000 adalah: 0.7575
+Hasil dari 93.0000 + 457.0000 adalah: 550.0000
+Hasil dari 496.0000 - 120.0000 adalah: 376.0000
+Hasil dari 8.0000 * 459.0000 adalah: 3672.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 210.0000 - 206.0000 adalah: 4.0000
+Hasil dari 270.0000 - 75.0000 adalah: 195.0000
+Hasil dari 149.0000 + 190.0000 adalah: 339.0000
+Error: Operator '^' tidak valid.
+Hasil dari 458.0000 - 79.0000 adalah: 379.0000
+Error: Operator '^' tidak valid.
+Hasil dari 439.0000 + 234.0000 adalah: 673.0000
+Hasil dari 361.0000 / 461.0000 adalah: 0.7831
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 20.0000 / 163.0000 adalah: 0.1227
+Error: Operator '^' tidak valid.
+Hasil dari 324.0000 - 384.0000 adalah: -60.0000
+Hasil dari 50.0000 - 285.0000 adalah: -235.0000
+Hasil dari 382.0000 * 427.0000 adalah: 163114.0000
+Hasil dari 490.0000 * 355.0000 adalah: 173950.0000
+Hasil dari 489.0000 - 181.0000 adalah: 308.0000
+Error: Operator '^' tidak valid.
+Hasil dari 180.0000 / 346.0000 adalah: 0.5202
+Hasil dari 228.0000 / 103.0000 adalah: 2.2136
+Hasil dari 5.0000 + 442.0000 adalah: 447.0000
+Hasil dari 129.0000 - 391.0000 adalah: -262.0000
+Hasil dari 105.0000 * 194.0000 adalah: 20370.0000
+Hasil dari 261.0000 - 335.0000 adalah: -74.0000
+Hasil dari 397.0000 * 293.0000 adalah: 116321.0000
+Hasil dari 275.0000 + 398.0000 adalah: 673.0000
+Hasil dari 384.0000 - 337.0000 adalah: 47.0000
+Hasil dari 122.0000 - 480.0000 adalah: -358.0000
+Hasil dari 407.0000 * 216.0000 adalah: 87912.0000
+Hasil dari 378.0000 - 311.0000 adalah: 67.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 49.0000 - 311.0000 adalah: -262.0000
+Error: Operator '^' tidak valid.
+Hasil dari 199.0000 + 422.0000 adalah: 621.0000
+Hasil dari 73.0000 - 491.0000 adalah: -418.0000
+Hasil dari 337.0000 * 460.0000 adalah: 155020.0000
+Hasil dari 188.0000 + 58.0000 adalah: 246.0000
+Hasil dari 113.0000 / 320.0000 adalah: 0.3531
+Hasil dari 458.0000 - 198.0000 adalah: 260.0000
+Hasil dari 210.0000 / 481.0000 adalah: 0.4366
+Hasil dari 359.0000 * 318.0000 adalah: 114162.0000
+Error: Operator '^' tidak valid.
+Hasil dari 419.0000 - 352.0000 adalah: 67.0000
+Hasil dari 3.0000 / 464.0000 adalah: 0.0065
+Hasil dari 274.0000 + 165.0000 adalah: 439.0000
+Hasil dari 219.0000 * 149.0000 adalah: 32631.0000
+Hasil dari 153.0000 * 358.0000 adalah: 54774.0000
+Error: Operator '^' tidak valid.
+Hasil dari 423.0000 - 446.0000 adalah: -23.0000
+Hasil dari 141.0000 - 242.0000 adalah: -101.0000
+Hasil dari 21.0000 / 341.0000 adalah: 0.0616
+Hasil dari 421.0000 * 201.0000 adalah: 84621.0000
+Hasil dari 429.0000 - 307.0000 adalah: 122.0000
+Hasil dari 7.0000 - 338.0000 adalah: -331.0000
+Hasil dari 437.0000 / 226.0000 adalah: 1.9336
+Hasil dari 180.0000 - 455.0000 adalah: -275.0000
+Hasil dari 45.0000 / 413.0000 adalah: 0.1090
+Hasil dari 359.0000 + 55.0000 adalah: 414.0000
+Error: Operator '^' tidak valid.
+Hasil dari 366.0000 - 318.0000 adalah: 48.0000
+Hasil dari 256.0000 + 220.0000 adalah: 476.0000
+Hasil dari 243.0000 + 350.0000 adalah: 593.0000
+Hasil dari 109.0000 - 190.0000 adalah: -81.0000
+Hasil dari 176.0000 + 112.0000 adalah: 288.0000
+Hasil dari 466.0000 + 102.0000 adalah: 568.0000
+Hasil dari 322.0000 + 412.0000 adalah: 734.0000
+Hasil dari 149.0000 - 92.0000 adalah: 57.0000
+Hasil dari 412.0000 - 44.0000 adalah: 368.0000
+Hasil dari 460.0000 - 30.0000 adalah: 430.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 81.0000 / 438.0000 adalah: 0.1849
+Hasil dari 249.0000 - 207.0000 adalah: 42.0000
+Hasil dari 269.0000 - 156.0000 adalah: 113.0000
+Hasil dari 409.0000 - 466.0000 adalah: -57.0000
+Hasil dari 209.0000 / 476.0000 adalah: 0.4391
+Hasil dari 28.0000 - 110.0000 adalah: -82.0000
+Hasil dari 386.0000 * 164.0000 adalah: 63304.0000
+Hasil dari 192.0000 - 134.0000 adalah: 58.0000
+Hasil dari 61.0000 + 334.0000 adalah: 395.0000
+Hasil dari 11.0000 / 331.0000 adalah: 0.0332
+Hasil dari 489.0000 - 467.0000 adalah: 22.0000
+Hasil dari 446.0000 / 91.0000 adalah: 4.9011
+Hasil dari 209.0000 * 236.0000 adalah: 49324.0000
+Hasil dari 443.0000 + 299.0000 adalah: 742.0000
+Hasil dari 281.0000 - 450.0000 adalah: -169.0000
+Hasil dari 95.0000 / 452.0000 adalah: 0.2102
+Hasil dari 492.0000 + 113.0000 adalah: 605.0000
+Hasil dari 383.0000 + 229.0000 adalah: 612.0000
+Hasil dari 36.0000 - 176.0000 adalah: -140.0000
+Hasil dari 489.0000 / 335.0000 adalah: 1.4597
+Hasil dari 484.0000 / 400.0000 adalah: 1.2100
+Hasil dari 492.0000 + 58.0000 adalah: 550.0000
+Hasil dari 375.0000 / 263.0000 adalah: 1.4259
+Hasil dari 216.0000 * 494.0000 adalah: 106704.0000
+Error: Operator '^' tidak valid.
+Hasil dari 327.0000 + 427.0000 adalah: 754.0000
+Hasil dari 247.0000 * 497.0000 adalah: 122759.0000
+Error: Operator '^' tidak valid.
+Hasil dari 205.0000 - 355.0000 adalah: -150.0000
+Hasil dari 184.0000 - 224.0000 adalah: -40.0000
+Hasil dari 456.0000 + 160.0000 adalah: 616.0000
+Hasil dari 302.0000 - 61.0000 adalah: 241.0000
+Hasil dari 363.0000 - 61.0000 adalah: 302.0000
+Hasil dari 113.0000 * 267.0000 adalah: 30171.0000
+Error: Operator '^' tidak valid.
+Hasil dari 472.0000 / 458.0000 adalah: 1.0306
+Hasil dari 167.0000 * 122.0000 adalah: 20374.0000
+Hasil dari 269.0000 / 235.0000 adalah: 1.1447
+Hasil dari 301.0000 * 307.0000 adalah: 92407.0000
+Hasil dari 424.0000 + 252.0000 adalah: 676.0000
+Error: Operator '^' tidak valid.
+Hasil dari 228.0000 / 278.0000 adalah: 0.8201
+Hasil dari 107.0000 + 241.0000 adalah: 348.0000
+Hasil dari 141.0000 * 17.0000 adalah: 2397.0000
+Hasil dari 381.0000 * 346.0000 adalah: 131826.0000
+Hasil dari 414.0000 / 313.0000 adalah: 1.3227
+Hasil dari 332.0000 * 244.0000 adalah: 81008.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 105.0000 * 226.0000 adalah: 23730.0000
+Hasil dari 409.0000 + 186.0000 adalah: 595.0000
+Hasil dari 66.0000 - 79.0000 adalah: -13.0000
+Hasil dari 223.0000 - 399.0000 adalah: -176.0000
+Hasil dari 400.0000 / 388.0000 adalah: 1.0309
+Hasil dari 434.0000 + 284.0000 adalah: 718.0000
+Hasil dari 259.0000 * 81.0000 adalah: 20979.0000
+Hasil dari 464.0000 / 197.0000 adalah: 2.3553
+Hasil dari 234.0000 - 262.0000 adalah: -28.0000
+Hasil dari 407.0000 * 306.0000 adalah: 124542.0000
+Hasil dari 432.0000 + 224.0000 adalah: 656.0000
+Error: Operator '^' tidak valid.
+Hasil dari 434.0000 - 209.0000 adalah: 225.0000
+Hasil dari 373.0000 - 225.0000 adalah: 148.0000
+Hasil dari 332.0000 * 369.0000 adalah: 122508.0000
+Hasil dari 357.0000 - 322.0000 adalah: 35.0000
+Hasil dari 231.0000 + 106.0000 adalah: 337.0000
+Hasil dari 398.0000 + 115.0000 adalah: 513.0000
+Hasil dari 59.0000 + 294.0000 adalah: 353.0000
+Error: Operator '^' tidak valid.
+Hasil dari 204.0000 / 423.0000 adalah: 0.4823
+Hasil dari 18.0000 * 182.0000 adalah: 3276.0000
+Hasil dari 478.0000 - 41.0000 adalah: 437.0000
+Hasil dari 406.0000 / 21.0000 adalah: 19.3333
+Hasil dari 431.0000 / 383.0000 adalah: 1.1253
+Error: Operator '^' tidak valid.
+Hasil dari 363.0000 / 402.0000 adalah: 0.9030
+Error: Operator '^' tidak valid.
+Hasil dari 290.0000 / 97.0000 adalah: 2.9897
+Hasil dari 89.0000 + 471.0000 adalah: 560.0000
+Hasil dari 472.0000 + 74.0000 adalah: 546.0000
+Hasil dari 149.0000 + 224.0000 adalah: 373.0000
+Hasil dari 405.0000 - 358.0000 adalah: 47.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 444.0000 + 160.0000 adalah: 604.0000
+Hasil dari 110.0000 / 163.0000 adalah: 0.6748
+Hasil dari 221.0000 + 467.0000 adalah: 688.0000
+Hasil dari 169.0000 - 259.0000 adalah: -90.0000
+Error: Operator '^' tidak valid.
+Hasil dari 418.0000 * 318.0000 adalah: 132924.0000
+Hasil dari 463.0000 * 27.0000 adalah: 12501.0000
+Hasil dari 460.0000 / 409.0000 adalah: 1.1247
+Hasil dari 359.0000 * 51.0000 adalah: 18309.0000
+Hasil dari 183.0000 * 262.0000 adalah: 47946.0000
+Hasil dari 19.0000 / 63.0000 adalah: 0.3016
+Hasil dari 99.0000 / 347.0000 adalah: 0.2853
+Hasil dari 470.0000 * 74.0000 adalah: 34780.0000
+Error: Operator '^' tidak valid.
+Hasil dari 459.0000 / 338.0000 adalah: 1.3580
+Hasil dari 333.0000 + 177.0000 adalah: 510.0000
+Error: Operator '^' tidak valid.
+Hasil dari 486.0000 - 153.0000 adalah: 333.0000
+Hasil dari 97.0000 * 245.0000 adalah: 23765.0000
+Hasil dari 178.0000 + 234.0000 adalah: 412.0000
+Hasil dari 265.0000 + 79.0000 adalah: 344.0000
+Hasil dari 169.0000 + 272.0000 adalah: 441.0000
+Hasil dari 165.0000 - 71.0000 adalah: 94.0000
+Hasil dari 5.0000 / 25.0000 adalah: 0.2000
+Hasil dari 457.0000 + 479.0000 adalah: 936.0000
+Hasil dari 33.0000 / 167.0000 adalah: 0.1976
+Hasil dari 305.0000 / 37.0000 adalah: 8.2432
+Hasil dari 410.0000 - 38.0000 adalah: 372.0000
+Hasil dari 35.0000 / 401.0000 adalah: 0.0873
+Hasil dari 411.0000 - 175.0000 adalah: 236.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 492.0000 * 290.0000 adalah: 142680.0000
+Error: Operator '^' tidak valid.
+Hasil dari 266.0000 / 274.0000 adalah: 0.9708
+Hasil dari 431.0000 / 154.0000 adalah: 2.7987
+Hasil dari 19.0000 / 215.0000 adalah: 0.0884
+Hasil dari 53.0000 / 314.0000 adalah: 0.1688
+Hasil dari 233.0000 / 277.0000 adalah: 0.8412
+Error: Operator '^' tidak valid.
+Hasil dari 154.0000 + 259.0000 adalah: 413.0000
+Hasil dari 440.0000 / 488.0000 adalah: 0.9016
+Hasil dari 323.0000 - 102.0000 adalah: 221.0000
+Hasil dari 304.0000 - 144.0000 adalah: 160.0000
+Hasil dari 65.0000 - 75.0000 adalah: -10.0000
+Hasil dari 426.0000 - 463.0000 adalah: -37.0000
+Hasil dari 83.0000 / 312.0000 adalah: 0.2660
+Hasil dari 499.0000 - 108.0000 adalah: 391.0000
+Hasil dari 163.0000 * 189.0000 adalah: 30807.0000
+Hasil dari 273.0000 + 262.0000 adalah: 535.0000
+Hasil dari 9.0000 * 428.0000 adalah: 3852.0000
+Hasil dari 339.0000 - 304.0000 adalah: 35.0000
+Hasil dari 279.0000 * 59.0000 adalah: 16461.0000
+Hasil dari 197.0000 / 152.0000 adalah: 1.2961
+Hasil dari 405.0000 + 198.0000 adalah: 603.0000
+Hasil dari 105.0000 / 487.0000 adalah: 0.2156
+Hasil dari 163.0000 * 181.0000 adalah: 29503.0000
+Hasil dari 267.0000 - 476.0000 adalah: -209.0000
+Hasil dari 265.0000 * 344.0000 adalah: 91160.0000
+Hasil dari 52.0000 - 327.0000 adalah: -275.0000
+Hasil dari 138.0000 * 132.0000 adalah: 18216.0000
+Hasil dari 175.0000 * 266.0000 adalah: 46550.0000
+Hasil dari 316.0000 + 340.0000 adalah: 656.0000
+Hasil dari 451.0000 + 342.0000 adalah: 793.0000
+Error: Operator '^' tidak valid.
+Hasil dari 288.0000 + 308.0000 adalah: 596.0000
+Hasil dari 436.0000 * 196.0000 adalah: 85456.0000
+Hasil dari 148.0000 + 33.0000 adalah: 181.0000
+Hasil dari 173.0000 + 36.0000 adalah: 209.0000
+Hasil dari 202.0000 * 221.0000 adalah: 44642.0000
+Hasil dari 29.0000 + 128.0000 adalah: 157.0000
+Hasil dari 170.0000 * 225.0000 adalah: 38250.0000
+Hasil dari 299.0000 * 16.0000 adalah: 4784.0000
+Hasil dari 292.0000 * 84.0000 adalah: 24528.0000
+Hasil dari 500.0000 - 281.0000 adalah: 219.0000
+Hasil dari 213.0000 + 242.0000 adalah: 455.0000
+Hasil dari 50.0000 + 401.0000 adalah: 451.0000
+Hasil dari 474.0000 - 4.0000 adalah: 470.0000
+Error: Operator '^' tidak valid.
+Hasil dari 22.0000 + 384.0000 adalah: 406.0000
+Hasil dari 209.0000 * 186.0000 adalah: 38874.0000
+Hasil dari 185.0000 * 82.0000 adalah: 15170.0000
+Error: Operator '^' tidak valid.
+Hasil dari 350.0000 - 177.0000 adalah: 173.0000
+Hasil dari 24.0000 / 416.0000 adalah: 0.0577
+Error: Operator '^' tidak valid.
+Hasil dari 432.0000 * 428.0000 adalah: 184896.0000
+Hasil dari 92.0000 + 270.0000 adalah: 362.0000
+Hasil dari 203.0000 / 35.0000 adalah: 5.8000
+Hasil dari 198.0000 - 406.0000 adalah: -208.0000
+Hasil dari 197.0000 / 167.0000 adalah: 1.1796
+Hasil dari 158.0000 * 139.0000 adalah: 21962.0000
+Error: Operator '^' tidak valid.
+Hasil dari 299.0000 + 432.0000 adalah: 731.0000
+Hasil dari 445.0000 - 23.0000 adalah: 422.0000
+Hasil dari 231.0000 + 19.0000 adalah: 250.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 336.0000 * 424.0000 adalah: 142464.0000
+Hasil dari 176.0000 - 264.0000 adalah: -88.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 468.0000 / 317.0000 adalah: 1.4763
+Hasil dari 387.0000 * 91.0000 adalah: 35217.0000
+Hasil dari 26.0000 * 268.0000 adalah: 6968.0000
+Hasil dari 45.0000 * 440.0000 adalah: 19800.0000
+Hasil dari 276.0000 + 92.0000 adalah: 368.0000
+Hasil dari 110.0000 / 334.0000 adalah: 0.3293
+Hasil dari 434.0000 / 69.0000 adalah: 6.2899
+Error: Operator '^' tidak valid.
+Hasil dari 461.0000 * 396.0000 adalah: 182556.0000
+Hasil dari 287.0000 - 139.0000 adalah: 148.0000
+Error: Operator '^' tidak valid.
+Hasil dari 218.0000 / 184.0000 adalah: 1.1848
+Error: Operator '^' tidak valid.
+Hasil dari 198.0000 * 33.0000 adalah: 6534.0000
+Hasil dari 305.0000 / 108.0000 adalah: 2.8241
+Hasil dari 458.0000 / 257.0000 adalah: 1.7821
+Hasil dari 14.0000 / 114.0000 adalah: 0.1228
+Hasil dari 358.0000 / 69.0000 adalah: 5.1884
+Hasil dari 180.0000 - 417.0000 adalah: -237.0000
+Hasil dari 145.0000 + 29.0000 adalah: 174.0000
+Hasil dari 36.0000 + 359.0000 adalah: 395.0000
+Hasil dari 309.0000 - 85.0000 adalah: 224.0000
+Hasil dari 130.0000 * 494.0000 adalah: 64220.0000
+Hasil dari 399.0000 - 22.0000 adalah: 377.0000
+Hasil dari 462.0000 + 311.0000 adalah: 773.0000
+Hasil dari 349.0000 / 35.0000 adalah: 9.9714
+Error: Operator '^' tidak valid.
+Hasil dari 253.0000 * 397.0000 adalah: 100441.0000
+Hasil dari 268.0000 / 35.0000 adalah: 7.6571
+Hasil dari 142.0000 / 353.0000 adalah: 0.4023
+Hasil dari 131.0000 - 179.0000 adalah: -48.0000
+Hasil dari 267.0000 + 74.0000 adalah: 341.0000
+Error: Operator '^' tidak valid.
+Hasil dari 100.0000 - 388.0000 adalah: -288.0000
+Error: Operator '^' tidak valid.
+Hasil dari 322.0000 + 429.0000 adalah: 751.0000
+Hasil dari 295.0000 / 456.0000 adalah: 0.6469
+Hasil dari 108.0000 * 262.0000 adalah: 28296.0000
+Hasil dari 250.0000 - 440.0000 adalah: -190.0000
+Hasil dari 343.0000 / 436.0000 adalah: 0.7867
+Hasil dari 30.0000 + 271.0000 adalah: 301.0000
+Hasil dari 198.0000 * 224.0000 adalah: 44352.0000
+Hasil dari 475.0000 * 385.0000 adalah: 182875.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 425.0000 + 302.0000 adalah: 727.0000
+Hasil dari 126.0000 / 63.0000 adalah: 2.0000
+Hasil dari 471.0000 / 272.0000 adalah: 1.7316
+Hasil dari 170.0000 * 460.0000 adalah: 78200.0000
+Hasil dari 34.0000 / 378.0000 adalah: 0.0899
+Hasil dari 9.0000 / 87.0000 adalah: 0.1034
+Hasil dari 96.0000 - 69.0000 adalah: 27.0000
+Error: Operator '^' tidak valid.
+Hasil dari 164.0000 + 293.0000 adalah: 457.0000
+Hasil dari 432.0000 / 55.0000 adalah: 7.8545
+Error: Operator '^' tidak valid.
+Hasil dari 432.0000 - 247.0000 adalah: 185.0000
+Error: Operator '^' tidak valid.
+Hasil dari 287.0000 * 35.0000 adalah: 10045.0000
+Hasil dari 141.0000 / 162.0000 adalah: 0.8704
+Hasil dari 334.0000 / 492.0000 adalah: 0.6789
+Hasil dari 174.0000 * 62.0000 adalah: 10788.0000
+Error: Operator '^' tidak valid.
+Hasil dari 186.0000 * 96.0000 adalah: 17856.0000
+Hasil dari 17.0000 + 346.0000 adalah: 363.0000
+Hasil dari 168.0000 / 207.0000 adalah: 0.8116
+Hasil dari 28.0000 * 6.0000 adalah: 168.0000
+Hasil dari 397.0000 + 166.0000 adalah: 563.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 187.0000 * 136.0000 adalah: 25432.0000
+Hasil dari 81.0000 / 343.0000 adalah: 0.2362
+Hasil dari 37.0000 / 411.0000 adalah: 0.0900
+Error: Operator '^' tidak valid.
+Hasil dari 190.0000 + 413.0000 adalah: 603.0000
+Hasil dari 165.0000 - 368.0000 adalah: -203.0000
+Error: Operator '^' tidak valid.
+Hasil dari 379.0000 * 474.0000 adalah: 179646.0000
+Hasil dari 440.0000 * 206.0000 adalah: 90640.0000
+Hasil dari 283.0000 + 51.0000 adalah: 334.0000
+Error: Operator '^' tidak valid.
+Hasil dari 66.0000 - 255.0000 adalah: -189.0000
+Hasil dari 492.0000 + 316.0000 adalah: 808.0000
+Hasil dari 240.0000 - 313.0000 adalah: -73.0000
+Hasil dari 459.0000 - 423.0000 adalah: 36.0000
+Hasil dari 281.0000 / 23.0000 adalah: 12.2174
+Hasil dari 348.0000 - 460.0000 adalah: -112.0000
+Hasil dari 304.0000 - 75.0000 adalah: 229.0000
+Error: Operator '^' tidak valid.
+Hasil dari 299.0000 * 175.0000 adalah: 52325.0000
+Hasil dari 282.0000 + 115.0000 adalah: 397.0000
+Hasil dari 438.0000 - 368.0000 adalah: 70.0000
+Hasil dari 83.0000 / 30.0000 adalah: 2.7667
+Hasil dari 302.0000 + 127.0000 adalah: 429.0000
+Hasil dari 139.0000 / 157.0000 adalah: 0.8854
+Hasil dari 163.0000 + 18.0000 adalah: 181.0000
+Hasil dari 497.0000 / 384.0000 adalah: 1.2943
+Hasil dari 407.0000 - 312.0000 adalah: 95.0000
+Hasil dari 66.0000 * 13.0000 adalah: 858.0000
+Hasil dari 211.0000 / 435.0000 adalah: 0.4851
+Hasil dari 233.0000 * 301.0000 adalah: 70133.0000
+Error: Operator '^' tidak valid.
+Hasil dari 405.0000 + 108.0000 adalah: 513.0000
+Error: Operator '^' tidak valid.
+Hasil dari 280.0000 * 220.0000 adalah: 61600.0000
+Hasil dari 47.0000 + 212.0000 adalah: 259.0000
+Hasil dari 271.0000 - 235.0000 adalah: 36.0000
+Hasil dari 92.0000 * 62.0000 adalah: 5704.0000
+Hasil dari 451.0000 + 82.0000 adalah: 533.0000
+Hasil dari 313.0000 / 8.0000 adalah: 39.1250
+Hasil dari 254.0000 - 360.0000 adalah: -106.0000
+Error: Operator '^' tidak valid.
+Hasil dari 28.0000 * 49.0000 adalah: 1372.0000
+Hasil dari 411.0000 - 200.0000 adalah: 211.0000
+Hasil dari 227.0000 / 47.0000 adalah: 4.8298
+Hasil dari 346.0000 * 184.0000 adalah: 63664.0000
+Error: Operator '^' tidak valid.
+Hasil dari 344.0000 * 313.0000 adalah: 107672.0000
+Hasil dari 434.0000 * 186.0000 adalah: 80724.0000
+Hasil dari 270.0000 / 333.0000 adalah: 0.8108
+Hasil dari 363.0000 / 189.0000 adalah: 1.9206
+Hasil dari 483.0000 / 205.0000 adalah: 2.3561
+Hasil dari 328.0000 * 222.0000 adalah: 72816.0000
+Hasil dari 55.0000 + 433.0000 adalah: 488.0000
+Hasil dari 47.0000 / 49.0000 adalah: 0.9592
+Hasil dari 260.0000 - 433.0000 adalah: -173.0000
+Hasil dari 412.0000 + 485.0000 adalah: 897.0000
+Error: Operator '^' tidak valid.
+Hasil dari 27.0000 / 409.0000 adalah: 0.0660
+Error: Operator '^' tidak valid.
+Hasil dari 198.0000 / 194.0000 adalah: 1.0206
+Hasil dari 327.0000 - 220.0000 adalah: 107.0000
+Hasil dari 15.0000 / 355.0000 adalah: 0.0423
+Hasil dari 448.0000 - 218.0000 adalah: 230.0000
+Hasil dari 162.0000 / 383.0000 adalah: 0.4230
+Hasil dari 448.0000 / 47.0000 adalah: 9.5319
+Hasil dari 120.0000 / 331.0000 adalah: 0.3625
+Hasil dari 409.0000 * 118.0000 adalah: 48262.0000
+Hasil dari 361.0000 * 345.0000 adalah: 124545.0000
+Hasil dari 342.0000 / 398.0000 adalah: 0.8593
+Hasil dari 381.0000 / 466.0000 adalah: 0.8176
+Hasil dari 238.0000 - 306.0000 adalah: -68.0000
+Hasil dari 47.0000 * 495.0000 adalah: 23265.0000
+Hasil dari 190.0000 + 384.0000 adalah: 574.0000
+Hasil dari 26.0000 / 141.0000 adalah: 0.1844
+Hasil dari 186.0000 * 3.0000 adalah: 558.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 62.0000 / 153.0000 adalah: 0.4052
+Hasil dari 57.0000 / 128.0000 adalah: 0.4453
+Hasil dari 191.0000 / 116.0000 adalah: 1.6466
+Hasil dari 489.0000 * 24.0000 adalah: 11736.0000
+Hasil dari 183.0000 + 241.0000 adalah: 424.0000
+Hasil dari 330.0000 / 52.0000 adalah: 6.3462
+Error: Operator '^' tidak valid.
+Hasil dari 9.0000 / 104.0000 adalah: 0.0865
+Error: Operator '^' tidak valid.
+Hasil dari 484.0000 + 19.0000 adalah: 503.0000
+Hasil dari 175.0000 * 420.0000 adalah: 73500.0000
+Hasil dari 157.0000 / 458.0000 adalah: 0.3428
+Hasil dari 172.0000 * 351.0000 adalah: 60372.0000
+Hasil dari 463.0000 / 335.0000 adalah: 1.3821
+Hasil dari 279.0000 * 427.0000 adalah: 119133.0000
+Hasil dari 424.0000 - 47.0000 adalah: 377.0000
+Hasil dari 334.0000 / 312.0000 adalah: 1.0705
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 76.0000 / 341.0000 adalah: 0.2229
+Hasil dari 463.0000 * 67.0000 adalah: 31021.0000
+Hasil dari 445.0000 - 98.0000 adalah: 347.0000
+Hasil dari 78.0000 * 487.0000 adalah: 37986.0000
+Hasil dari 206.0000 - 464.0000 adalah: -258.0000
+Hasil dari 457.0000 / 319.0000 adalah: 1.4326
+Hasil dari 14.0000 * 39.0000 adalah: 546.0000
+Hasil dari 108.0000 - 274.0000 adalah: -166.0000
+Hasil dari 323.0000 + 266.0000 adalah: 589.0000
+Error: Operator '^' tidak valid.
+Hasil dari 387.0000 / 311.0000 adalah: 1.2444
+Hasil dari 22.0000 + 329.0000 adalah: 351.0000
+Hasil dari 3.0000 / 386.0000 adalah: 0.0078
+Hasil dari 387.0000 + 11.0000 adalah: 398.0000
+Hasil dari 148.0000 + 18.0000 adalah: 166.0000
+Hasil dari 354.0000 - 419.0000 adalah: -65.0000
+Hasil dari 390.0000 * 487.0000 adalah: 189930.0000
+Hasil dari 92.0000 / 11.0000 adalah: 8.3636
+Hasil dari 405.0000 + 469.0000 adalah: 874.0000
+Hasil dari 437.0000 - 431.0000 adalah: 6.0000
+Hasil dari 69.0000 / 282.0000 adalah: 0.2447
+Hasil dari 179.0000 / 245.0000 adalah: 0.7306
+Hasil dari 75.0000 + 100.0000 adalah: 175.0000
+Hasil dari 61.0000 - 494.0000 adalah: -433.0000
+Error: Operator '^' tidak valid.
+Hasil dari 471.0000 / 426.0000 adalah: 1.1056
+Hasil dari 165.0000 + 185.0000 adalah: 350.0000
+Hasil dari 178.0000 - 433.0000 adalah: -255.0000
+Hasil dari 475.0000 / 350.0000 adalah: 1.3571
+Hasil dari 408.0000 / 430.0000 adalah: 0.9488
+Hasil dari 263.0000 + 64.0000 adalah: 327.0000
+Hasil dari 253.0000 + 67.0000 adalah: 320.0000
+Hasil dari 406.0000 / 202.0000 adalah: 2.0099
+Error: Operator '^' tidak valid.
+Hasil dari 78.0000 - 105.0000 adalah: -27.0000
+Hasil dari 478.0000 + 436.0000 adalah: 914.0000
+Error: Operator '^' tidak valid.
+Hasil dari 464.0000 + 197.0000 adalah: 661.0000
+Hasil dari 329.0000 + 235.0000 adalah: 564.0000
+Hasil dari 402.0000 - 329.0000 adalah: 73.0000
+Hasil dari 355.0000 / 28.0000 adalah: 12.6786
+Error: Operator '^' tidak valid.
+Hasil dari 453.0000 + 219.0000 adalah: 672.0000
+Hasil dari 410.0000 + 117.0000 adalah: 527.0000
+Hasil dari 93.0000 - 421.0000 adalah: -328.0000
+Hasil dari 444.0000 / 64.0000 adalah: 6.9375
+Hasil dari 493.0000 / 140.0000 adalah: 3.5214
+Hasil dari 96.0000 - 114.0000 adalah: -18.0000
+Hasil dari 143.0000 + 332.0000 adalah: 475.0000
+Error: Operator '^' tidak valid.
+Hasil dari 134.0000 / 98.0000 adalah: 1.3673
+Hasil dari 370.0000 + 182.0000 adalah: 552.0000
+Hasil dari 336.0000 + 301.0000 adalah: 637.0000
+Hasil dari 25.0000 / 269.0000 adalah: 0.0929
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 461.0000 * 304.0000 adalah: 140144.0000
+Error: Operator '^' tidak valid.
+Hasil dari 281.0000 + 78.0000 adalah: 359.0000
+Hasil dari 46.0000 - 239.0000 adalah: -193.0000
+Hasil dari 227.0000 * 96.0000 adalah: 21792.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 253.0000 / 209.0000 adalah: 1.2105
+Hasil dari 294.0000 - 417.0000 adalah: -123.0000
+Hasil dari 191.0000 - 317.0000 adalah: -126.0000
+Hasil dari 280.0000 * 250.0000 adalah: 70000.0000
+Hasil dari 468.0000 * 107.0000 adalah: 50076.0000
+Error: Operator '^' tidak valid.
+Hasil dari 36.0000 * 92.0000 adalah: 3312.0000
+Hasil dari 6.0000 * 484.0000 adalah: 2904.0000
+Hasil dari 393.0000 + 361.0000 adalah: 754.0000
+Hasil dari 45.0000 - 11.0000 adalah: 34.0000
+Hasil dari 350.0000 * 353.0000 adalah: 123550.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 424.0000 - 22.0000 adalah: 402.0000
+Hasil dari 2.0000 - 193.0000 adalah: -191.0000
+Hasil dari 355.0000 * 482.0000 adalah: 171110.0000
+Hasil dari 403.0000 - 18.0000 adalah: 385.0000
+Hasil dari 484.0000 / 99.0000 adalah: 4.8889
+Hasil dari 238.0000 + 210.0000 adalah: 448.0000
+Hasil dari 379.0000 - 221.0000 adalah: 158.0000
+Hasil dari 143.0000 - 148.0000 adalah: -5.0000
+Hasil dari 43.0000 / 2.0000 adalah: 21.5000
+Hasil dari 254.0000 / 93.0000 adalah: 2.7312
+Error: Operator '^' tidak valid.
+Hasil dari 283.0000 + 476.0000 adalah: 759.0000
+Hasil dari 241.0000 / 333.0000 adalah: 0.7237
+Hasil dari 156.0000 / 16.0000 adalah: 9.7500
+Hasil dari 446.0000 * 29.0000 adalah: 12934.0000
+Hasil dari 86.0000 + 294.0000 adalah: 380.0000
+Error: Operator '^' tidak valid.
+Hasil dari 328.0000 + 13.0000 adalah: 341.0000
+Hasil dari 278.0000 - 84.0000 adalah: 194.0000
+Error: Operator '^' tidak valid.
+Hasil dari 191.0000 * 325.0000 adalah: 62075.0000
+Hasil dari 411.0000 + 453.0000 adalah: 864.0000
+Hasil dari 167.0000 / 376.0000 adalah: 0.4441
+Error: Operator '^' tidak valid.
+Hasil dari 13.0000 - 417.0000 adalah: -404.0000
+Hasil dari 353.0000 + 3.0000 adalah: 356.0000
+Hasil dari 98.0000 - 327.0000 adalah: -229.0000
+Error: Operator '^' tidak valid.
+Hasil dari 469.0000 / 220.0000 adalah: 2.1318
+Error: Operator '^' tidak valid.
+Hasil dari 51.0000 * 175.0000 adalah: 8925.0000
+Error: Operator '^' tidak valid.
+Hasil dari 406.0000 + 227.0000 adalah: 633.0000
+Hasil dari 165.0000 + 256.0000 adalah: 421.0000
+Hasil dari 265.0000 - 173.0000 adalah: 92.0000
+Hasil dari 301.0000 / 76.0000 adalah: 3.9605
+Hasil dari 260.0000 - 90.0000 adalah: 170.0000
+Hasil dari 441.0000 * 374.0000 adalah: 164934.0000
+Hasil dari 361.0000 + 421.0000 adalah: 782.0000
+Hasil dari 208.0000 + 497.0000 adalah: 705.0000
+Hasil dari 435.0000 + 139.0000 adalah: 574.0000
+Hasil dari 81.0000 - 7.0000 adalah: 74.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 220.0000 * 145.0000 adalah: 31900.0000
+Hasil dari 107.0000 + 86.0000 adalah: 193.0000
+Hasil dari 486.0000 - 197.0000 adalah: 289.0000
+Error: Operator '^' tidak valid.
+Hasil dari 101.0000 / 149.0000 adalah: 0.6779
+Hasil dari 394.0000 * 467.0000 adalah: 183998.0000
+Hasil dari 196.0000 * 431.0000 adalah: 84476.0000
+Hasil dari 119.0000 - 450.0000 adalah: -331.0000
+Hasil dari 82.0000 - 340.0000 adalah: -258.0000
+Hasil dari 431.0000 / 468.0000 adalah: 0.9209
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 291.0000 + 153.0000 adalah: 444.0000
+Hasil dari 144.0000 / 118.0000 adalah: 1.2203
+Hasil dari 308.0000 - 362.0000 adalah: -54.0000
+Hasil dari 353.0000 / 263.0000 adalah: 1.3422
+Hasil dari 118.0000 * 361.0000 adalah: 42598.0000
+Error: Operator '^' tidak valid.
+Hasil dari 463.0000 / 148.0000 adalah: 3.1284
+Hasil dari 42.0000 * 193.0000 adalah: 8106.0000
+Hasil dari 65.0000 / 498.0000 adalah: 0.1305
+Hasil dari 63.0000 - 236.0000 adalah: -173.0000
+Hasil dari 219.0000 / 410.0000 adalah: 0.5341
+Hasil dari 167.0000 / 127.0000 adalah: 1.3150
+Hasil dari 397.0000 + 315.0000 adalah: 712.0000
+Hasil dari 374.0000 - 184.0000 adalah: 190.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 386.0000 / 376.0000 adalah: 1.0266
+Hasil dari 266.0000 / 231.0000 adalah: 1.1515
+Error: Operator '^' tidak valid.
+Hasil dari 334.0000 - 476.0000 adalah: -142.0000
+Error: Operator '^' tidak valid.
+Hasil dari 16.0000 * 109.0000 adalah: 1744.0000
+Error: Operator '^' tidak valid.
+Hasil dari 211.0000 * 185.0000 adalah: 39035.0000
+Hasil dari 369.0000 * 244.0000 adalah: 90036.0000
+Hasil dari 163.0000 - 137.0000 adalah: 26.0000
+Hasil dari 77.0000 / 256.0000 adalah: 0.3008
+Hasil dari 353.0000 * 352.0000 adalah: 124256.0000
+Hasil dari 266.0000 * 408.0000 adalah: 108528.0000
+Hasil dari 30.0000 * 349.0000 adalah: 10470.0000
+Hasil dari 47.0000 * 334.0000 adalah: 15698.0000
+Hasil dari 226.0000 + 411.0000 adalah: 637.0000
+Error: Operator '^' tidak valid.
+Hasil dari 352.0000 / 126.0000 adalah: 2.7937
+Hasil dari 218.0000 * 140.0000 adalah: 30520.0000
+Hasil dari 37.0000 - 62.0000 adalah: -25.0000
+Hasil dari 187.0000 / 500.0000 adalah: 0.3740
+Hasil dari 434.0000 / 121.0000 adalah: 3.5868
+Error: Operator '^' tidak valid.
+Hasil dari 417.0000 - 429.0000 adalah: -12.0000
+Hasil dari 115.0000 * 10.0000 adalah: 1150.0000
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 471.0000 - 422.0000 adalah: 49.0000
+Hasil dari 194.0000 + 204.0000 adalah: 398.0000
+Error: Operator '^' tidak valid.
+Hasil dari 182.0000 / 251.0000 adalah: 0.7251
+Hasil dari 167.0000 / 18.0000 adalah: 9.2778
+Error: Operator '^' tidak valid.
+Hasil dari 193.0000 / 355.0000 adalah: 0.5437
+Hasil dari 207.0000 / 118.0000 adalah: 1.7542
+Hasil dari 343.0000 * 192.0000 adalah: 65856.0000
+Error: Operator '^' tidak valid.
+Hasil dari 491.0000 / 494.0000 adalah: 0.9939
+Error: Operator '^' tidak valid.
+Error: Operator '^' tidak valid.
+Hasil dari 373.0000 * 133.0000 adalah: 49609.0000
+Hasil dari 404.0000 / 309.0000 adalah: 1.3074
+Hasil dari 377.0000 / 240.0000 adalah: 1.5708
+Hasil dari 406.0000 * 448.0000 adalah: 181888.0000
+Hasil dari 371.0000 / 116.0000 adalah: 3.1983
+Hasil dari 61.0000 / 386.0000 adalah: 0.1580
+Error: Operator '^' tidak valid.
+Hasil dari 251.0000 / 400.0000 adalah: 0.6275
+Hasil dari 428.0000 * 400.0000 adalah: 171200.0000
+Hasil dari 8.0000 * 199.0000 adalah: 1592.0000
+Hasil dari 39.0000 * 461.0000 adalah: 17979.0000
+Hasil dari 424.0000 * 252.0000 adalah: 106848.0000
+Hasil dari 64.0000 / 229.0000 adalah: 0.2795
+Hasil dari 344.0000 * 472.0000 adalah: 162368.0000
+Hasil dari 291.0000 + 488.0000 adalah: 779.0000
+Hasil dari 117.0000 - 458.0000 adalah: -341.0000
+Hasil dari 51.0000 / 394.0000 adalah: 0.1294
+Error: Operator '^' tidak valid.
+Hasil dari 352.0000 + 381.0000 adalah: 733.0000
+Hasil dari 247.0000 / 73.0000 adalah: 3.3836
+Hasil dari 316.0000 - 92.0000 adalah: 224.0000
+Hasil dari 188.0000 * 30.0000 adalah: 5640.0000
+Hasil dari 101.0000 - 270.0000 adalah: -169.0000
+Hasil dari 3.0000 + 346.0000 adalah: 349.0000
+Error: Operator '^' tidak valid.
+Hasil dari 273.0000 * 395.0000 adalah: 107835.0000
+Hasil dari 359.0000 + 87.0000 adalah: 446.0000
+Hasil dari 122.0000 / 451.0000 adalah: 0.2705
+Hasil dari 294.0000 * 392.0000 adalah: 115248.0000
+Hasil dari 128.0000 / 381.0000 adalah: 0.3360
+Hasil dari 43.0000 + 129.0000 adalah: 172.0000
+Hasil dari 335.0000 / 97.0000 adalah: 3.4536
+Hasil dari 474.0000 - 196.0000 adalah: 278.0000
+Hasil dari 300.0000 / 66.0000 adalah: 4.5455
+Hasil dari 76.0000 + 34.0000 adalah: 110.0000
+Hasil dari 301.0000 + 146.0000 adalah: 447.0000
+Hasil dari 6.0000 - 352.0000 adalah: -346.0000
+Hasil dari 270.0000 / 56.0000 adalah: 4.8214
+Hasil dari 60.0000 + 47.0000 adalah: 107.0000
+Hasil dari 218.0000 * 108.0000 adalah: 23544.0000
+Hasil dari 321.0000 + 326.0000 adalah: 647.0000
+Error: Operator '^' tidak valid.
+Hasil dari 64.0000 * 266.0000 adalah: 17024.0000
+Hasil dari 102.0000 + 192.0000 adalah: 294.0000
+Error: Operator '^' tidak valid.
+Hasil dari 176.0000 * 435.0000 adalah: 76560.0000
+Hasil dari 390.0000 - 31.0000 adalah: 359.0000
+Hasil dari 269.0000 / 482.0000 adalah: 0.5581
+Hasil dari 386.0000 / 376.0000 adalah: 1.0266
+Hasil dari 278.0000 - 81.0000 adalah: 197.0000
+Hasil dari 111.0000 * 498.0000 adalah: 55278.0000
+Hasil dari 40.0000 * 92.0000 adalah: 3680.0000
+Hasil dari 145.0000 * 380.0000 adalah: 55100.0000
+Error: Operator '^' tidak valid.
+Hasil dari 92.0000 + 127.0000 adalah: 219.0000
+Hasil dari 274.0000 + 213.0000 adalah: 487.0000
+Error: Operator '^' tidak valid.
+Hasil dari 35.0000 + 344.0000 adalah: 379.0000
+Hasil dari 222.0000 * 317.0000 adalah: 70374.0000
+Hasil dari 201.0000 / 477.0000 adalah: 0.4214
+Hasil dari 302.0000 * 119.0000 adalah: 35938.0000
+Hasil dari 14.0000 - 3.0000 adalah: 11.0000
+Error: Operator '^' tidak valid.
+Hasil dari 361.0000 / 95.0000 adalah: 3.8000
+Hasil dari 58.0000 * 419.0000 adalah: 24302.0000
+Hasil dari 69.0000 / 394.0000 adalah: 0.1751
+Hasil dari 47.0000 - 40.0000 adalah: 7.0000
+Hasil dari 381.0000 + 227.0000 adalah: 608.0000
+Hasil dari 129.0000 - 227.0000 adalah: -98.0000
